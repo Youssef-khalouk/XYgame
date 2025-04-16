@@ -1,3 +1,3 @@
 # XYgame
 
-this game working on windows becuse of some functions like getch();.
+this game working only on windows becuse of some functions like getch();.
